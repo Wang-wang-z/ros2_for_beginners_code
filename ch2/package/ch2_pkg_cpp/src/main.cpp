@@ -18,6 +18,7 @@
 
 int main(int argc, char ** argv)
 {
+  int i ;
   (void)argc;
   (void)argv;
   auto pkg2go = ros_beginner::Pkg2Go("Hello ROS 2.");
